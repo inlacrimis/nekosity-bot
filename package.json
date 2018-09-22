@@ -1,0 +1,22 @@
+{
+  "name": "Aki",
+  "version": "1.0.0",
+  "description": "New unfinished multi-purpose discord bot!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eriii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "better-cleverbot-io": "^1.0.2",
+    "discord-embed-maker": "^3.0.8",
+    "discord.js": "^11.4.2",
+    "enmap": "^4.3.0",
+    "fs": "0.0.1-security",
+    "fs-readdir": "0.0.3",
+    "nekos.life": "^1.1.4",
+    "npm": "^6.4.1"
+  }
+}
